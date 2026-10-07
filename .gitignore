@@ -1,0 +1,16 @@
+# --- Salida de compilación (NetBeans / javac) ---
+build/
+dist/
+*.class
+*.jar
+
+# --- NetBeans: configuración local (no se comparte) ---
+nbproject/private/
+nbproject/local.properties
+
+# --- Editores / sistema ---
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
